@@ -3,6 +3,9 @@
     margin-left: 10%;
 }
 .parrafo{
-    margin-top: 4%;
-    margin-left: 11%;
+    margin-top: 5%;
+    font-size: 19px;
+}
+#foto{
+    clip-path: circle(50%);
 }
